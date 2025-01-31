@@ -27,7 +27,7 @@ Tech Stack
 1.Clone the repository 
 Open terrminal and run:  
 
-git clone https://github.com/amaachiaaaaa/stage0_api
+git clone https://github.com/amaachiaaaaa/stage0_api.git
 
 2.Install dependencies
 Run the following command to install all necessary dependencies:npm install or npm i
